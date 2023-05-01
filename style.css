@@ -43,7 +43,7 @@ footer>p{
     color: midnightblue;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 680px) {
     .Jewelry{
         display: block;
         width: 100%;
